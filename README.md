@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 - 🌱 I’m currently learning Node.js, ReactJS and React Native.
+-->
+
+#### Currently Learning:
+- 🌱 PHP and Laravel.
