@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 -->
 
 #### Currently Learning:
-- 🌱 PHP and Laravel.
+- Angular.
+- .Net Core.
